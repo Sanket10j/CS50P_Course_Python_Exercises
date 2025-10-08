@@ -1,9 +1,7 @@
-Ans = input("What is the Answer to the Great Question of Life, the Universe, and Everything?")
 
-match Ans.casefold().strip():
-   case "42" | "forty-two" | "forty two":
-        print("Yes")
-   case _:
-        print("No")
-
-# ggdywgdyg
+Sicilian Pizza,Small,Large
+Cheese,$25.50,$39.95
+1 item,$27.50,$41.95
+2 items,$29.50,$43.95
+3 items,$31.50,$45.95
+Special,$33.50,$47.95
